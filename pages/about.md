@@ -13,8 +13,9 @@ I am an MLIS student. This GitHub page is dedicated to my Aunt's rescue dog, Bel
 
 Bella is a handful, but so loving.  It was originally thought that she would only grow to be about 50 lbs.  That is not the case as she is at least 100 lbs of pure muscle.  
 
-{% [![Watch the video](https://img.youtube.com/vi/877im4hmbCw/0.jpg)](https://www.youtube.com/watch?v=877im4hmbCw)
- %}
+### Watch the Video
+
+[![Watch the video](https://img.youtube.com/vi/877im4hmbCw/0.jpg)](https://www.youtube.com/watch?v=877im4hmbCw)
 
 ## About the Collection
 
