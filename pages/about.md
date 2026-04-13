@@ -37,6 +37,6 @@ https://www.youtube-nocookie.com/embed/{{ youtube_id }}?rel=0&modestbranding=1
   Bella the Menace – Playtime Chaos (Video)
 </p>
 
-[![Watch the video](https://img.youtube.com/vi/877im4hmbCw/0.jpg)](https://www.youtube.com/watch?v=877im4hmbCw)
+
 
 
