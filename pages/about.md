@@ -21,6 +21,7 @@ Even though Bella is loud, weighs a ton when she sits on you (she thinks she's a
 https://www.youtube-nocookie.com/embed/{{ youtube_id }}?rel=0&modestbranding=1
 {% endcapture %}
 
+<div style="text-align: center; margin: 1.5rem 0;">
 <div class="embed-responsive embed-responsive-16by9" style="margin: 1.5rem 0;">
   <iframe 
     class="embed-responsive-item"
