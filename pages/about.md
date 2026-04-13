@@ -16,6 +16,25 @@ Bella is a handful, but so loving.  It was originally thought that she would onl
 Even though Bella is loud, weighs a ton when she sits on you (she thinks she's a lap dog), and can act like a bull in a china shop, I wouldn't trade her for the world.  
 
 ### Watch the Video
+{% assign youtube_id = "877im4hmbCw" %}
+{% capture video_src %}
+https://www.youtube-nocookie.com/embed/{{ youtube_id }}?rel=0&modestbranding=1
+{% endcapture %}
+
+<div class="embed-responsive embed-responsive-16by9" style="margin: 1.5rem 0;">
+  <iframe 
+    class="embed-responsive-item"
+    src="https://www.youtube-nocookie.com/embed/877im4hmbCw?rel=0&modestbranding=1"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<p class="text-center" style="font-size: 0.9rem; color: #555;">
+  Bella the Menace – Playtime Chaos (Video)
+</p>
 
 [![Watch the video](https://img.youtube.com/vi/877im4hmbCw/0.jpg)](https://www.youtube.com/watch?v=877im4hmbCw)
 
